@@ -43,7 +43,7 @@ You'll need to install [XCode](https://developer.apple.com/xcode/).
 
 ```bash
 # to start, you must fork this project
-git clone https://github.com/<your username>/atom-gpp-compiler.git
+git clone https://github.com/OliverKohlDSc/atom-gpp-compiler.git
 cd atom-gpp-compiler
 rm -rf ~/.atom/packages/gpp-compiler
 npm install # this will install developer dependencies (eslint)
